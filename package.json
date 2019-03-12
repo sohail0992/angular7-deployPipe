@@ -1,5 +1,5 @@
 {
-  "name": "circle-ci",
+  "name": "angular6-app-deployPipe",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
